@@ -34,4 +34,5 @@ git clone https://github.com/your_username/YouTube-Audio-Summarizer.git
 **Install dependencies:**
 
 **ffmpeg** is required for this project to run. Follow this link- https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/
+
 **Google gemini** api key (Free) - https://aistudio.google.com/app/apikey
